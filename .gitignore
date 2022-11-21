@@ -1,0 +1,8 @@
+/db/*
+/build/*
+.env
+node_modules
+statistics.json
+.idea
+yarn.lock
+!/db/.gitkeep
